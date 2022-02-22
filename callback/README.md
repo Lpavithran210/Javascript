@@ -1,2 +1,2 @@
 # Callback Function
-How to make a callback in js
+How to make a callback in javascript
