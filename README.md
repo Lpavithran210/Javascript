@@ -1,2 +1,2 @@
-# Javascript
-Javascript Topics
+# Javascript Examples
+Repository includes learnings of javascript
